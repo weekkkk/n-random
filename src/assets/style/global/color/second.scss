@@ -1,0 +1,50 @@
+:root {
+  --n-second-100: #626865;
+  --n-second-90: #a6aaaf;
+  --n-second-80: #a8aeb6;
+  --n-second-70: #9eadbd;
+  --n-second-60: #9fafc0;
+  --n-second-50: #9eafa4;
+  --n-second-40: #c4cfdc;
+  --n-second-30: #d1d8e2;
+  --n-second-20: #dbe2eb;
+  --n-second-10: #e7e3e3;
+  --n-second-0: #E9EFF5;
+
+  .c-second-100 {
+    color: var(--n-second-100);
+  }
+  .bg-second-100 {
+    background-color: var(--n-second-100);
+  }
+  .c-second-80 {
+    color: var(--n-second-80);
+  }
+  .bg-second-80 {
+    background-color: var(--n-second-80);
+  }
+  .c-second-60 {
+    color: var(--n-second-60);
+  }
+  .bg-second-60 {
+    background-color: var(--n-second-60);
+  }
+  .c-second-40 {
+    color: var(--n-second-40);
+  }
+  .bg-second-40 {
+    background-color: var(--n-second-40);
+  }
+  .c-second-20 {
+    color: var(--n-second-20);
+  }
+  .bg-second-20 {
+    background-color: var(--n-second-20);
+  }
+  .c-second-0 {
+    color: var(--n-second-0);
+  }
+  .bg-second-0 {
+    background-color: var(--n-second-0);
+  }
+}
